@@ -1,0 +1,100 @@
+{
+    "data" : [
+        {
+            "hotel-name" : "The Oberoi Udaivilas",
+            "city" : "Udaipur" ,
+            "id": 1,
+            "price" : "Rs.41,000",
+            "location": "Rajasthan",
+            "reservation" : "open",
+            "imgUrl": "https://lh3.googleusercontent.com/p/AF1QipMuXeRSEy6AIfsfaADUJ0WavsP_oJVDRIvrFraH=w296-h202-n-k-rw-no-v1"
+        },
+        {
+            "hotel-name" : "The Taj Mahal Palace",
+            "city" : "Mumbai" ,
+            "id": 2,
+            "price" : "Rs.19,000",
+            "location": "Maharashtra",
+            "reservation" : "open",
+            "imgUrl" : "https://lh3.googleusercontent.com/gps-proxy/AE4_-5EFrx30gER2dEYRNLdKcWPB8LMTVC78WgohKANz9tXreobSf0Od-SlX0v96gYBX3Uf73e_du6FdLcfW93Z3c0bl9BZEF_KExx4qt5xzJg5XZPib_izICkaPCKcH2w3LFZlvU74Mm7dvtMYRYBl7WDgn-ffD68ANXJNiMHsVmgqlgIjrh4cFetih=w296-h202-n-k-rw-no-v1"
+        },
+        {
+            "hotel-name" : "Marriott Executive Apartments",
+            "city" : "Hyderabad" ,
+            "id": 3,
+            "price" : "Rs.22,000",
+            "location": "andhra Pradesh",
+            "reservation" : "open",
+            "imgUrl": "https://lh3.googleusercontent.com/proxy/73JdyNVTzqTwoAcFc13upiweD1Hy-AtnP6ylvQCc-giR5PRQle3BlIzsQn_wOM2In5FQjfHGj7Sj4SjSz8brJrkp2BYfjPipMU415sR2LVUhTiMYeUl0Y5UPMvjWyFKkjMDU8LjptXazy62LW288oijXDsxhoco=w296-h202-n-k-rw-no-v1"
+        },
+        {
+            "hotel-name" : "Kaldan Samudhra Palace",
+            "city" : "Tamil Nadu" ,
+            "id": 4,
+            "price" : "Rs.25,000",
+            "location": "Chennai",
+            "reservation" : "open",
+            "imgUrl": "https://lh3.googleusercontent.com/p/AF1QipNJW3_Sx0fd-EQJdYVO4CpqaaxTDayxopMmHhQD=w296-h202-n-k-rw-no-v1"
+        },
+        {
+            "hotel-name" : "The Leela Palace New Delhi",
+            "city" : "New Delhi" ,
+            "id": 5,
+            "price" : "Rs.20,000",
+            "location": "New Delhi",
+            "reservation" : "open",
+            "imgUrl": "https://lh3.googleusercontent.com/p/AF1QipNWtGI-mHhuiaEGEjv0RyBBJI9kteedg7CYDrVw=w296-h202-n-k-rw-no-v1"
+        },
+        
+        {
+            "hotel-name" : "SUJÁN Sher Bagh",
+            "city" : "Ranthambhore" ,
+            "id": 6,
+            "price" : "Rs.74,000",
+            "location": "Rajasthan",
+            "reservation" : "open",
+            "imgUrl": "https://lh3.googleusercontent.com/gps-proxy/AE4_-5GQGFaHWQ-ASeCL6AQADTsDVRxAVrASURHdd-3kIMUxxphiikjekAaOXUZcNlwXYl-PbGJPN3M_ud-kQy_YUzgMkI3hzFfX0m0hwg2eMoK7UtQrhg0P6NzfJYYi9gg7p7LLK6elArPzpA1Fjq1vbpvQQpWyxfOWArGuZCPmBbG_kV3w1q9V_QDs=w296-h202-n-k-rw-no-v1"
+        },
+        {
+            "hotel-name" : "SUJÁN JAWAI Camp",
+            "city" : "JAWAI DAM" ,
+            "id": 7,
+            "price" : "Rs.34,000",
+            "location": "Rajasthan",
+            "reservation" : "open",
+            "imgUrl": "https://lh3.googleusercontent.com/gps-proxy/AE4_-5EWcgdKWFp7c_oVw6gHiQzBJVbTjtDCQ3L4K6FjP0Q_CQA-RKQHbcLqt4ZqFW7q7CD3JQKmLJqhoEXJKbQMHHqe2PMRrmgZxvjBM-6Y_znv6EKFuwGieAFvGVoJ4Pr9Ua4C3gAoQs5agN4xwIDTjruAYsP0MKZg-M3wKJtPj7Rej_c1zqGmeA_BSg=w296-h202-n-k-rw-no-v1"
+        },
+        {
+            "hotel-name" : "Evolve Back",
+            "city" : "Hampi" ,
+            "id": 8,
+            "price" : "Rs.31,000",
+            "location": "Karnataka",
+            "reservation" : "open",
+            "imgUrl": "https://lh3.googleusercontent.com/p/AF1QipPQO5OOlm2z_4fn5TpB-NMuGqGo90tMmxIK_F5Q=w296-h202-n-k-rw-no-v1"
+        },
+        {
+            "hotel-name" : "The Imperial",
+            "city" : "New Delhi" ,
+            "id": 9,
+            "price" : "Rs.11,000",
+            "location": "Karnataka",
+            "reservation" : "open",
+            "imgUrl": "https://lh3.googleusercontent.com/p/AF1QipOTg_wbor-zfWIaHueLyS8nhLRn9hRsfcJfXMKE=w296-h202-n-k-rw-no-v1"
+        },
+        {
+            "hotel-name" : "Taj Resort & Convention Centre",
+            "city" : "Goa" ,
+            "id": 10,
+            "price" : "Rs.23,000",
+            "location": "Goa",
+            "reservation" : "open",
+            "imgUrl": "https://lh3.googleusercontent.com/p/AF1QipPVPudftf6AWUnXgbn7r2BS81_alpyhOl27ZqnX=w296-h202-n-k-rw-no-v1"
+        },
+        
+        
+
+        
+
+    ]
+}
